@@ -22,6 +22,9 @@ A responsive OTT platform clone inspired by Aha. The application provides a mode
 2. (Optional) Deploy using Firebase
 3. Explore UI and features
 
+## 🔗 Live Demo
+[Aha Clone](https://aha-clone-5ef77.web.app/)
+
 ## 👨‍💻 Author
 
 Venkata Rao Kancheti
